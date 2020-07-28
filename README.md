@@ -10,7 +10,9 @@ Use IJKL keys to move the yellow snake
 Eat the red food piece to grow larger
 Your snake will lose all its body parts if it hits the border or if it crashes into itself
 
-
+In multiplayer move if your snake head hits another player's snake body your snake will lose all its body parts
+If two snake heads hit each other the shorter one will lose all its body parts
+If the two heads hit each other and they both are the same size a random snake will lose all its body parts
 # Required
 
 A web browser to run the html file.
