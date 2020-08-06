@@ -2,6 +2,8 @@
 
 Description-A game in which a snake will attept to eat food and grow larger and larger and avoid hitting the walls or itself or other players. Can support as many as 3 players in multiplayer in which players will fight to become the largest snake.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=3Y-Z4CrALT8&t=5s
+
 # How to play the game
 Use WASD keys to move the green snake
 Use TFGH keys to move the blue snake
